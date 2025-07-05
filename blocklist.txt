@@ -1,13 +1,11 @@
 0.0.0.0 reddit.com
 0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
 0.0.0.0 oauth.reddit.com
 0.0.0.0 redditmedia.com
+0.0.0.0 preview.redd.it
+0.0.0.0 i.redd.it
 0.0.0.0 external-preview.redd.it
-0.0.0.0 reddit.com
-0.0.0.0 reddit.com
-0.0.0.0 reddit.com
-0.0.0.0 reddit.com
-0.0.0.0 reddit.com
 0.0.0.0 x.com
 0.0.0.0 twitter.com
 0.0.0.0 deviantart.com
