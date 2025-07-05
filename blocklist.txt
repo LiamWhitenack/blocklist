@@ -5,7 +5,6 @@
 0.0.0.0 i.redd.it
 0.0.0.0 new.reddit.com
 0.0.0.0 oauth.reddit.com
-0.0.0.0 old.reddit.com
 0.0.0.0 preview.redd.it
 0.0.0.0 reddit.com
 0.0.0.0 redditmedia.com
@@ -15,7 +14,6 @@
 0.0.0.0 www.redditstatic.com
 0.0.0.0 reddit.com
 0.0.0.0 www.reddit.com
-0.0.0.0 old.reddit.com
 0.0.0.0 oauth.reddit.com
 0.0.0.0 redditmedia.com
 0.0.0.0 preview.redd.it
